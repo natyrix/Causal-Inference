@@ -52,8 +52,6 @@ The repository has a number of files including python scripts, jupyter notebooks
 ### scripts
 - Different python utility scripts that have different purposes.
 
-### training
-- `train.py`: Trigerred by CML(Continous Machine Learning) and send training report and status
 
 ### tests
 
