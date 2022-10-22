@@ -46,7 +46,10 @@ class EDAPipeline():
             starting_tuple = (val[0], val[1])
             val_end = str(ending_coordinates[i]).split(',')
             ending_tuple = (val_end[0], val_end[1])
-            calculated_distances.append(distance.distance(starting_tuple, ending_tuple).km)
+            if val_end[0] == "0.0" or val_end[1] == "0.0":
+                calculated_distances.append(-1)
+            else:
+                calculated_distances.append(distance.distance(starting_tuple, ending_tuple).km)
         return calculated_distances
 
     def check_distances_based_on_time(self, df, start_date_col='Trip Start Time', end_date_col='Trip End Time', distance_col='distance'):
