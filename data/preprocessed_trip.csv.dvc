@@ -1,0 +1,4 @@
+outs:
+- md5: 5d685f80590137e0f924f8b37337f139
+  size: 79955849
+  path: preprocessed_trip.csv
