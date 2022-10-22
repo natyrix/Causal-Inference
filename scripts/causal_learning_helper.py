@@ -20,8 +20,12 @@ class CausalHelper():
                     # df['driver_lat'] = driver['lat']
                     # df['driver_lng'] = driver['lng']
                 else:
-                    driver_lat_ls.append(0.0)
-                    driver_lng_ls.append(0.0)
+                    if len(drivers) > 0:
+                        driver_lat_ls.append(0.5)
+                        driver_lng_ls.append(0.5)
+                    else:
+                        driver_lat_ls.append(0.0)
+                        driver_lng_ls.append(0.0)
             # k+=1
             # if k > 1000:
             #     print(k)

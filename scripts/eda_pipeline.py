@@ -48,6 +48,8 @@ class EDAPipeline():
             ending_tuple = (val_end[0], val_end[1])
             if val_end[0] == "0.0" or val_end[1] == "0.0":
                 calculated_distances.append(-1)
+            elif val_end[0] == "0.5" or val_end[1] == "0.5":
+                calculated_distances.append(-2)
             else:
                 calculated_distances.append(distance.distance(starting_tuple, ending_tuple).km)
         return calculated_distances
