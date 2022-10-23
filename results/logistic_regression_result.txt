@@ -1,0 +1,17 @@
+Training Accuracy scores: [0.97697182 0.97692562 0.97697291 0.97697291 0.97697291]
+Mean Training Accuracy: 97.69632320376157
+Training Precision scores: [0.97697182 0.97692562 0.97697291 0.97697291 0.97697291]
+Mean Training Precision: 0.9769632320376156
+Training Recall scores: [1. 1. 1. 1. 1.]
+Mean Training Recall: 1.0
+Training F1 scores: [0.98835179 0.98832815 0.98835235 0.98835235 0.98835235]
+Mean Training F1 Score: 0.9883473967699015
+Validation Accuracy scores: [0.9769289  0.97711368 0.97692453 0.97692453 0.97692453]
+Mean Validation Accuracy: 97.696323325532
+Validation Precision scores: [0.9769289  0.97711368 0.97692453 0.97692453 0.97692453]
+Mean Validation Precision: 0.9769632332553201
+Validation Recall scores: [1. 1. 1. 1. 1.]
+Mean Validation Recall: 1.0
+Validation F1 scores: [0.98832983 0.98842438 0.98832759 0.98832759 0.98832759]
+Mean Validation F1 Score: 0.9883473960193727
+Coefficients: []

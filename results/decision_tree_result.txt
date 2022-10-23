@@ -1,0 +1,17 @@
+Training Accuracy scores: [1. 1. 1. 1. 1.]
+Mean Training Accuracy: 100.0
+Training Precision scores: [1. 1. 1. 1. 1.]
+Mean Training Precision: 1.0
+Training Recall scores: [1. 1. 1. 1. 1.]
+Mean Training Recall: 1.0
+Training F1 scores: [1. 1. 1. 1. 1.]
+Mean Training F1 Score: 1.0
+Validation Accuracy scores: [1. 1. 1. 1. 1.]
+Mean Validation Accuracy: 100.0
+Validation Precision scores: [1. 1. 1. 1. 1.]
+Mean Validation Precision: 1.0
+Validation Recall scores: [1. 1. 1. 1. 1.]
+Mean Validation Recall: 1.0
+Validation F1 scores: [1. 1. 1. 1. 1.]
+Mean Validation F1 Score: 1.0
+Coefficients: []
