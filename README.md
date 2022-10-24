@@ -23,7 +23,7 @@ This repository is used for week 9 challenge of 10Academy. The instructions for 
 
 Causal inference is the process of determining the independent, actual effect of a particular phenomenon that is a component of a larger system. The main difference between causal inference and inference of association is that causal inference analyzes the response of an effect variable when the cause of the effect variable is changed. The science of why things occur is called etiology. Causal inference is said to provide evidence of causality theorized by causal reasoning.
 
-![Alt text](img1.png?raw=true "Causal Overview")
+![Alt text](img2.png?raw=true "Causal Overview")
 
 ## About
 
@@ -34,7 +34,7 @@ complete orders. Since drivers are paid based on the number of requests they
 accept, your solution will help Gokada business grow both in terms of client
 satisfaction and increased business.
 
-![Alt text](img2.png?raw=true "Graph")
+![Alt text](img1.png?raw=true "Graph")
 
 ## Project Structure
 The repository has a number of files including python scripts, jupyter notebooks, raw and cleaned data, and text files. Here is their structure with a brief explanation.
