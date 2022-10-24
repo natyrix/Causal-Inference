@@ -3,7 +3,7 @@ import pandas as pd
 import sys
 import os
 
-sys.path.append(os.path.abspath(os.path.join("../Causal Inference/scripts/")))
+sys.path.append(os.path.abspath(os.path.join("../Causal-Inference/scripts/")))
 from eda_pipeline import EDAPipeline
 df = pd.read_csv("./tests/sample_data.csv")
 
