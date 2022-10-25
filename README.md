@@ -34,6 +34,7 @@ complete orders. Since drivers are paid based on the number of requests they
 accept, your solution will help Gokada business grow both in terms of client
 satisfaction and increased business.
 
+![Alt text](img3.png?raw=true "Map")
 ![Alt text](img1.png?raw=true "Graph")
 
 ## Project Structure
